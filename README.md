@@ -11,7 +11,7 @@
 *will update shortly*
 
 ---
-## [Live Demo 🚀](https://its-ag.github.io/)
+## [Live Demo 🚀](https://its-ag.github.io/GetQuotes/)
 ---
 ### TODO (Maybe sometime in future)
 
