@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Get Quotes 🍀</title>
+    <link rel="icon" type="image/png"
+        href="https://cdn.discordapp.com/emojis/994820267786379406.webp?size=48&quality=lossless">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css"
+        integrity="sha512-xh6O/CkQoPOWDdYTDqeRdPCVd1SpvCA9XXcUnZS2FmJNp1coAFzvtCN9BmamE+4aHK8yyUHUSCcJHgXloTyT2A=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <!-- Quote -->
+    <div class="quote-container" id="quote-container">
+        <i class="fas fa-quote-left"></i>
+        <span id="quote-text"></span>
+
+        <!-- Author -->
+        <div class="quote-author">
+            <span id="quote-author"></span>
+        </div>
+        <!-- Buttons -->
+        <div class="button-container">
+            <button class="twitter-button" id="twitter">
+                <i class="fab fa-twitter"></i>
+            </button>
+            <button id="newquote">Get New Quote</button>
+        </div>
+    </div>
+    <!-- Loader -->
+    <div class="lds-ellipsis loader">
+        <div class="loader"></div>
+        <div class="loader"></div>
+        <div class="loader"></div>
+        <div class="loader"></div>
+    </div>
+    <!-- Script -->
+    <script src="script.js"></script>
+</body>
+
+</html>
