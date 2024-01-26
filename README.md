@@ -6,12 +6,6 @@
 - Open index.html in your browser
 - Click on the button to get a new quote
 
-## Screenshot
-
-*will update shortly*
-
----
-## [Live Demo 🚀](https://its-ag.github.io/GetQuotes/)
 ---
 ### TODO (Maybe sometime in future)
 
@@ -21,5 +15,5 @@
 - [ ] Use any better API
 
 ---
- *This project was a part of my 21days JS challange. Read more about it [here](https://arunava.tech/) (will update the link with my blog link shortly) <br>
- I will be adding more features to it in the future. Feel free to contribute. 😊*
+ 
+ This project was a part of my 21days JS challange.
